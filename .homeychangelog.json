@@ -49,5 +49,8 @@
   },
   "1.1.1": {
     "en": "Tweak the way we report watts to make the energy tab happy."
+  },
+  "1.1.2": {
+    "en": "Allow for username/password updates."
   }
 }
