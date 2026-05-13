@@ -7,6 +7,6 @@
     "@types/homey": "npm:homey-apps-sdk-v3-types@^0.3.10"
   },
   "dependencies": {
-    "enphaseenvoy": "^1.0.1"
+    "enphaseenvoy": "^1.0.5"
   }
 }
